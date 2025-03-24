@@ -1,0 +1,82 @@
+2025-03-24 23:12:05.515551 - Launching color_detection/red_detection.py
+2025-03-24 23:13:36.798661 - Launching color_detection/red_detection.py
+2025-03-24 23:13:39.249848 - Started Red Color Detection
+2025-03-24 23:14:36.877431 - Stopped Red Color Detection
+2025-03-24 23:14:37.925385 - Launching color_detection/blue_detection.py
+2025-03-24 23:16:44.902648 - Launching color_detection/red_detection.py
+2025-03-24 23:16:47.252352 - Started Red Color Detection
+2025-03-24 23:17:01.492793 - Stopped Red Color Detection
+2025-03-24 23:17:02.485109 - Launching color_detection/blue_detection.py
+2025-03-24 23:17:05.194626 - Started Blue Color Detection
+2025-03-24 23:17:51.293761 - Stopped Blue Color Detection
+2025-03-24 23:17:53.066870 - Launching haar_detection/face_detection.py
+2025-03-24 23:17:55.837836 - Started Face Detection
+2025-03-24 23:19:17.710052 - Launching haar_detection/face_detection.py
+2025-03-24 23:19:20.016511 - Started Face Detection
+2025-03-24 23:20:28.079139 - Launching haar_detection/face_detection.py
+2025-03-24 23:20:30.361486 - Started Face Detection
+2025-03-24 23:21:16.683894 - Launching haar_detection/face_detection.py
+2025-03-24 23:21:19.064806 - Started Face Detection
+2025-03-24 23:22:05.183866 - Launching haar_detection/eye_detection.py
+2025-03-24 23:22:07.472602 - Started Eye Detection
+2025-03-24 23:22:09.801879 - Launching haar_detection/face_detection.py
+2025-03-24 23:22:11.752164 - Started Face Detection
+2025-03-24 23:22:21.189153 - Launching haar_detection/face_detection.py
+2025-03-24 23:22:23.287334 - Started Face Detection
+2025-03-24 23:23:11.388187 - Launching haar_detection/face_detection.py
+2025-03-24 23:23:13.781984 - Started Face Detection
+2025-03-24 23:24:12.641222 - Launching haar_detection/face_detection.py
+2025-03-24 23:24:44.283160 - Launching haar_detection/face_detection.py
+2025-03-24 23:25:07.016553 - Launching haar_detection/face_detection.py
+2025-03-24 23:25:07.586959 - Using cascade path: D:\vision_toolkit\haar_cascades\haarcascade_frontalface_default.xml
+2025-03-24 23:25:07.586959 - Cascade file exists? False
+2025-03-24 23:26:18.063531 - Launching haar_detection/face_detection.py
+2025-03-24 23:26:38.461031 - Launching haar_detection/face_detection.py
+2025-03-24 23:26:39.030724 - Using cascade path: D:\vision_toolkit\haar_detection\haar_cascades\haarcascade_frontalface_default.xml
+2025-03-24 23:26:39.030724 - Cascade file exists? True
+2025-03-24 23:26:40.856764 - Started Face Detection
+2025-03-24 23:26:53.461753 - Launching haar_detection/eye_detection.py
+2025-03-24 23:26:55.731402 - Started Eye Detection
+2025-03-24 23:31:23.482951 - Launching haar_detection/smile_detection.py
+2025-03-24 23:31:24.066973 - Using face cascade: D:\vision_toolkit\haar_detection\haar_cascades\haarcascade_frontalface_default.xml
+2025-03-24 23:31:24.066973 - Using smile cascade: D:\vision_toolkit\haar_detection\haar_cascades\haarcascade_smile.xml
+2025-03-24 23:31:24.092323 - Error loading cascades.
+2025-03-24 23:31:51.348577 - Launching haar_detection/vehicle_detection.py
+2025-03-24 23:31:51.911093 - Using vehicle cascade: D:\vision_toolkit\haar_detection\haar_cascades\haarcascade_car.xml
+2025-03-24 23:31:51.986818 - Started Vehicle Detection
+2025-03-24 23:32:57.684231 - Stopped Vehicle Detection
+2025-03-24 23:33:01.329027 - Launching haar_detection/eye_detection.py
+2025-03-24 23:33:01.877394 - Using face cascade: D:\vision_toolkit\haar_detection\haar_cascades\haarcascade_frontalface_default.xml
+2025-03-24 23:33:01.877394 - Using eye cascade: D:\vision_toolkit\haar_detection\haar_cascades\haarcascade_eye.xml
+2025-03-24 23:33:01.926504 - Started Eye Detection
+2025-03-24 23:33:16.934759 - Stopped Eye Detection
+2025-03-24 23:33:18.582753 - Launching haar_detection/custom_object_detection.py
+2025-03-24 23:33:19.163972 - Using custom cascade path: D:\vision_toolkit\haar_detection\haar_cascades\custom_cascade.xml
+2025-03-24 23:33:19.164962 - Custom Haar cascade file not found!
+2025-03-24 23:34:52.367804 - Launching haar_detection/smile_detection.py
+2025-03-24 23:34:52.907299 - Using face cascade: D:\vision_toolkit\haar_detection\haar_cascades\haarcascade_frontalface_default.xml
+2025-03-24 23:34:52.907299 - Using smile cascade: D:\vision_toolkit\haar_detection\haar_cascades\haarcascade_smile.xml
+2025-03-24 23:34:52.954943 - Started Smile Detection
+2025-03-24 23:35:12.964154 - Stopped Smile Detection
+2025-03-24 23:38:15.396064 - Launching haar_detection/custom_object_detection.py
+2025-03-24 23:38:15.967028 - Using custom cascade path: D:\vision_toolkit\haar_detection\haar_cascades\custom_cascade.xml
+2025-03-24 23:38:15.967028 - Custom Haar cascade file not found!
+2025-03-24 23:38:24.345804 - Launching haar_detection/vehicle_detection.py
+2025-03-24 23:38:24.918456 - Using vehicle cascade: D:\vision_toolkit\haar_detection\haar_cascades\haarcascade_car.xml
+2025-03-24 23:38:24.925729 - Started Vehicle Detection
+2025-03-24 23:39:11.328140 - Stopped Vehicle Detection
+2025-03-24 23:39:13.127971 - Launching haar_detection/smile_detection.py
+2025-03-24 23:39:13.682763 - Using face cascade: D:\vision_toolkit\haar_detection\haar_cascades\haarcascade_frontalface_default.xml
+2025-03-24 23:39:13.682763 - Using smile cascade: D:\vision_toolkit\haar_detection\haar_cascades\haarcascade_smile.xml
+2025-03-24 23:39:13.704163 - Started Smile Detection
+2025-03-24 23:39:33.527027 - Stopped Smile Detection
+2025-03-24 23:40:43.190760 - Launching haar_detection/face_detection.py
+2025-03-24 23:40:46.238988 - Started Face Detection
+2025-03-24 23:40:55.398380 - Launching haar_detection/eye_detection.py
+2025-03-24 23:40:56.022550 - Using face cascade: D:\vision_toolkit\haar_detection\haar_cascades\haarcascade_frontalface_default.xml
+2025-03-24 23:40:56.022550 - Using eye cascade: D:\vision_toolkit\haar_detection\haar_cascades\haarcascade_eye.xml
+2025-03-24 23:40:56.053292 - Started Eye Detection
+2025-03-24 23:41:10.765879 - Stopped Eye Detection
+2025-03-24 23:41:17.573826 - Launching color_detection/red_detection.py
+2025-03-24 23:41:19.941918 - Started Red Color Detection
+2025-03-24 23:41:33.892065 - Stopped Red Color Detection

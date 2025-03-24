@@ -1,4 +1,3 @@
-opencv-python
-numpy
-Pillow
-PyQt5
+opencv-python  # Computer vision operations
+numpy          # Numerical operations (used internally by OpenCV)
+PyQt5          # GUI framework for the main toolkit window
