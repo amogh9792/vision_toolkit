@@ -1,7 +1,7 @@
-import os
+vec_file = 'haar_training/positives.vec'
 
-with open('haar_training/info.dat', 'r') as f:
-    for idx, line in enumerate(f, 1):
-        img_path = line.strip().split(' ')[0]
-        if not os.path.exists(img_path):
-            print(f"[MISSING] Line {idx}: {img_path}")
+with open(vec_file, 'rb') as f:
+    f.read(8)  # Skip first 8 bytes
+    sample_count = int.from_bytes(f.read(4), byteorder='little')
+
+print(f"[INFO] positives.vec contains {sample_count} samples")
