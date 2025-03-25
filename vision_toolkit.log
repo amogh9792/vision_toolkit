@@ -81,3 +81,16 @@
 2025-03-24 23:41:19.941918 - Started Red Color Detection
 2025-03-24 23:41:33.892065 - Stopped Red Color Detection
 2025-03-25 15:34:21.659130 - Using cascade path: D:\vision_toolkit\haar_detection\haar_cascades\cascade.xml
+2025-03-25 19:57:54.034374 - Launching haar_detection/custom_object_detection.py
+2025-03-25 19:58:37.599686 - Launching haar_detection/mobile_detection.py
+2025-03-25 19:58:38.360891 - Using cascade path: D:\vision_toolkit\haar_detection\haar_cascades\mobile_cascade.xml
+2025-03-25 19:58:40.256853 - Started Mobile Phone Detection
+2025-03-25 19:59:02.917722 - Stopped Mobile Phone Detection
+2025-03-25 20:16:52.404097 - Launching haar_detection/mobile_detection.py
+2025-03-25 20:16:53.046165 - Using cascade path: D:\vision_toolkit\haar_detection\haar_cascades\mobile_cascade.xml
+2025-03-25 20:16:54.803505 - Started Mobile Phone Detection
+2025-03-25 20:17:25.421772 - Stopped Mobile Phone Detection
+2025-03-25 20:18:26.090530 - Launching haar_detection/mobile_detection.py
+2025-03-25 20:18:26.334446 - Using cascade path: D:\vision_toolkit\haar_detection\haar_cascades\mobile_cascade.xml
+2025-03-25 20:18:28.146422 - Started Mobile Phone Detection
+2025-03-25 20:18:34.679424 - Stopped Mobile Phone Detection

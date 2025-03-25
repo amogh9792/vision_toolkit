@@ -43,7 +43,7 @@ class VisionToolkit(QMainWindow):
         layout.addWidget(self.create_button("👀 Eye Detection", "haar_detection/eye_detection.py"))
         layout.addWidget(self.create_button("😊 Smile Detection", "haar_detection/smile_detection.py"))
         layout.addWidget(self.create_button("🚗 Vehicle Detection", "haar_detection/vehicle_detection.py"))
-        layout.addWidget(self.create_button("👜 Custom Object Detection", "haar_detection/custom_object_detection.py"))
+        layout.addWidget(self.create_button("👜 Mobile Detection", "haar_detection/mobile_detection.py"))
 
         # Logging Area
         layout.addWidget(self.create_section_label("📜 Logs"))

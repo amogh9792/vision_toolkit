@@ -1,7 +1,7 @@
 """
 Real-time Mobile Phone detection using the custom-trained Haar Cascade.
 
-Make sure the path to 'cascade.xml' is correct.
+Make sure the path to 'mobile_cascade.xml' is correct.
 
 Usage:
     python haar_detection/mobile_detection.py
@@ -55,9 +55,9 @@ def detect_mobile():
         # Detect mobile phones in the frame
         mobiles = phone_cascade.detectMultiScale(
             gray,
-            scaleFactor=1.1,
-            minNeighbors=5,
-            minSize=(24, 24)  # Adjust this based on your training
+            scaleFactor=1.4,
+            minNeighbors=10,     # Tuned minNeighbors for better accuracy
+            minSize=(60, 60)    # Adjust this based on your training dataset
         )
 
         # Draw rectangles around detected mobiles

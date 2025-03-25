@@ -1,7 +1,3 @@
 vision_toolkit/
-positives/
-negatives/
-samples/
-haar_cascade_output/
-annotations/
 vision_toolkit.log
+mobile_detection_training/

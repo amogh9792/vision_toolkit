@@ -1,7 +1,7 @@
-vec_file = 'haar_training/positives.vec'
-
-with open(vec_file, 'rb') as f:
-    f.read(8)  # Skip first 8 bytes
-    sample_count = int.from_bytes(f.read(4), byteorder='little')
-
-print(f"[INFO] positives.vec contains {sample_count} samples")
+import os
+import cv2
+img_path = 'haar_training/positives/phones139.png'
+print("Exists:", os.path.exists(img_path))  # Should be True
+img = cv2.imread(img_path)
+if img is None:
+    print(f"Failed to load image: {img_path}")
